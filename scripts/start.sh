@@ -1,0 +1,1 @@
+concurrently -n "CLIENT,SERVER" -c "blue,green" "react-scripts start" "npx json-server heroes.json --port 3001"

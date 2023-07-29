@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "First Hero",
+      "description": "First Hero on scoreboard",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Unknown hero",
+      "description": "Hiding in the shadows",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Water hero",
+      "description": "Just like aquaman, but not for DC",
+      "element": "water"
+    },
+    {
+      "id": "d9a3a18b-75f2-41fc-a326-24217b5f4cc9",
+      "name": "Omar",
+      "description": "React",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
+  ]
+}

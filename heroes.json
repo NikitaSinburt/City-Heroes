@@ -17,12 +17,6 @@
       "name": "Water hero",
       "description": "Just like aquaman, but not for DC",
       "element": "water"
-    },
-    {
-      "id": "d9a3a18b-75f2-41fc-a326-24217b5f4cc9",
-      "name": "Omar",
-      "description": "React",
-      "element": "earth"
     }
   ],
   "filters": [
